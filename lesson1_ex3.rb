@@ -1,7 +1,7 @@
 puts "Введите 3 значения для вычесления среднего арифметического"
-a = gets.chomp.to_i
-b = gets.chomp.to_i
-c = gets.chomp.to_i
+a = gets.chomp.to_f
+b = gets.chomp.to_f
+c = gets.chomp.to_f
 
 d = (a + b + c) / 3
 
